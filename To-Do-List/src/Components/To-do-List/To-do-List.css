@@ -1,0 +1,12 @@
+.list{
+    color: greenyellow;
+    background-color: transparent;
+}
+
+ul {
+    font-size: larger;
+}
+.deletebtn{
+    font-size: x-small;
+    background-color: transparent !important;
+}

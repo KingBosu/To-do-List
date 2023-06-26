@@ -1,0 +1,15 @@
+*{
+  color: greenyellow;
+  background-image: url('https://wallpaperaccess.com/full/1186159.jpg');
+  
+}
+
+
+#root {
+  margin: 0 auto; 
+  padding: 10rem;
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+}
+
+
