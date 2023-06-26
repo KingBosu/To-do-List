@@ -14,7 +14,7 @@ const FontChange = () => {
   };
 
   return (
-    <nav>
+    <nav style={{ position: 'absolute', top: 0, right: 0 }}>
       <button onClick={handleButtonClick}>Font Style</button>
     </nav>
   );
